@@ -1,0 +1,16 @@
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\bin\Debug\net5.0\Programs_String.exe
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\bin\Debug\net5.0\Programs_String.deps.json
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\bin\Debug\net5.0\Programs_String.runtimeconfig.json
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\bin\Debug\net5.0\Programs_String.runtimeconfig.dev.json
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\bin\Debug\net5.0\Programs_String.dll
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\bin\Debug\net5.0\ref\Programs_String.dll
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\bin\Debug\net5.0\Programs_String.pdb
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.csproj.AssemblyReference.cache
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.AssemblyInfoInputs.cache
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.AssemblyInfo.cs
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.csproj.CoreCompileInputs.cache
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.dll
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\ref\Programs_String.dll
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.pdb
+C:\Users\dhanalaxmio\Source\Repos\ProgramsinCsharp\Programs_String\obj\Debug\net5.0\Programs_String.genruntimeconfig.cache
