@@ -5,6 +5,23 @@ namespace Programs_String
 {
     class Program
     {
+        //Duplicate char in the string
+        public int CountDuplicateOccuranceElementInArray()
+        {
+            string myString = "passage";
+            char myChar;
+
+                int count = 0;
+                for (int i = 0; i < myString.Length; i++)
+                {
+                if (myString[i] == myChar)
+                {
+                    ++count;
+                }
+                }
+                return count;
+            
+        }
         //find missing integer in an array
         static int arraySum;
         int mean = 9;
@@ -21,7 +38,27 @@ namespace Programs_String
             //Console.WriteLine(missingElement);
             return missingElement;
         }
-
+       // print numbers without loop
+       public static void PrintNumbers()
+        {
+            try
+            {
+                int i = 0;
+            begine:
+                i = i + 1;
+                if (i < 20)
+                {
+                    Console.WriteLine(i);
+                    goto begine;
+                    
+                }
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
+            
+        }
 
         static void Main(string[] args)
         {
@@ -37,6 +74,7 @@ namespace Programs_String
             }
             Program test = new Program();
             Console.WriteLine(test.MissingIntegerInArray());
+            Program.PrintNumbers();
 
         }
     }
